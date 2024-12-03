@@ -1,1 +1,1 @@
-here you can see the code to make a atehelka rps game in c language
+here you can see the code to make a tehelka rps game in c language
